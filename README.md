@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning *Frameworks, Full Stack Web devlopement*
 
-- 👨‍💻 All of my projects are available at [netlify.com](render.com)
+- 👨‍💻 All of my projects are available at [render.com](render.com)
 
 - 💬 Ask me about *MERN*
 
